@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shovan-Dutta
-- 👀 I’m interested in python, machine learning, artificial intelligence.
-- 🌱 I’m currently learning machine learning.
+- 👀 I’m interested in python, Data Analysis, ,machine learning, artificial intelligence.
+- 🌱 I’m currently learning machine learning,Deep Learning, Data Analysis.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
